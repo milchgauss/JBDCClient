@@ -1,0 +1,6 @@
+com/example/CreatingBeans/Company.java
+ com.example.CreatingBeans.Company
+com/example/CreatingBeans/CreatingBeansApplication.java
+ com.example.CreatingBeans.CreatingBeansApplication
+com/example/CreatingBeans/Address.java
+ com.example.CreatingBeans.Address

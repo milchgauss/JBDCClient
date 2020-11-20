@@ -1,0 +1,14 @@
+com/example/CreatingBeans/Company.java
+ com.example.CreatingBeans.Company
+com/example/CreatingBeans/ORMJDBCExample.java
+ com.example.CreatingBeans.ORMJDBCExample
+com/example/CreatingBeans/DynamicProxyExample.java
+ com.example.CreatingBeans.DynamicProxyExample
+com/example/CreatingBeans/DynamicInvocationHandler.java
+ com.example.CreatingBeans.DynamicInvocationHandler
+com/example/CreatingBeans/Address.java
+ com.example.CreatingBeans.Address
+com/example/CreatingBeans/CreatingBeansApplicationTests.java
+ com.example.CreatingBeans.CreatingBeansApplicationTests
+com/example/CreatingBeans/Customer.java
+ com.example.CreatingBeans.Customer
